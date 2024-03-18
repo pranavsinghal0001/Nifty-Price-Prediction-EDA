@@ -31,7 +31,5 @@ The model achieves approx.60% accuracy on the test set, demonstrating its abilit
 Contributions:-
 Contributions to improve this model or add new features are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
 
-License:-
-This project is licensed under the MIT License.
 
 
